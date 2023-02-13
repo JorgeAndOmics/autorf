@@ -15,7 +15,7 @@ A Python script to implement a Random Forest approach for bioinformatics using a
 
 The script can be run from the command line using the following command:
 
-    python random_forest_model.py --dataset dataset_file.csv --target target_variable_name 
+    python autorf.py --dataset dataset_file.csv --target target_variable_name 
 
 where `dataset_file.csv` is the path to the dataset file and `target_variable_name` is the name of the target variable.
 
